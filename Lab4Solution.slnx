@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../../../Desktop/Lab4Solution/TestDataLibrary/TestDataLibrary.csproj" />
+  <Project Path="Lab4WpfAppM/Lab4WpfAppM.csproj" />
+  <Project Path="TestDataLibrary.Tests/TestDataLibrary.Tests.csproj" />
+  <Project Path="TestDataViewModel.Tests/TestDataViewModel.Tests.csproj" />
+  <Project Path="TestDataViewModel/TestDataViewModel.csproj" />
+</Solution>

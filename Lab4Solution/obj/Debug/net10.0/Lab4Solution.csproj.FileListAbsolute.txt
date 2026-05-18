@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Lab4Solution\Lab4Solution\bin\Debug\net10.0\Lab4Solution.exe
+C:\Users\USER\source\repos\Lab4Solution\Lab4Solution\bin\Debug\net10.0\Lab4Solution.deps.json
+C:\Users\USER\source\repos\Lab4Solution\Lab4Solution\bin\Debug\net10.0\Lab4Solution.runtimeconfig.json
+C:\Users\USER\source\repos\Lab4Solution\Lab4Solution\bin\Debug\net10.0\Lab4Solution.dll
+C:\Users\USER\source\repos\Lab4Solution\Lab4Solution\bin\Debug\net10.0\Lab4Solution.pdb
+C:\Users\USER\source\repos\Lab4Solution\Lab4Solution\obj\Debug\net10.0\Lab4Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Lab4Solution\Lab4Solution\obj\Debug\net10.0\Lab4Solution.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Lab4Solution\Lab4Solution\obj\Debug\net10.0\Lab4Solution.AssemblyInfo.cs
+C:\Users\USER\source\repos\Lab4Solution\Lab4Solution\obj\Debug\net10.0\Lab4Solution.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Lab4Solution\Lab4Solution\obj\Debug\net10.0\Lab4Solution.dll
+C:\Users\USER\source\repos\Lab4Solution\Lab4Solution\obj\Debug\net10.0\refint\Lab4Solution.dll
+C:\Users\USER\source\repos\Lab4Solution\Lab4Solution\obj\Debug\net10.0\Lab4Solution.pdb
+C:\Users\USER\source\repos\Lab4Solution\Lab4Solution\obj\Debug\net10.0\Lab4Solution.genruntimeconfig.cache
+C:\Users\USER\source\repos\Lab4Solution\Lab4Solution\obj\Debug\net10.0\ref\Lab4Solution.dll

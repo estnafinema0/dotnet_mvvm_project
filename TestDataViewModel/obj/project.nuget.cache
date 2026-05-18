@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WD4xAi0KT48=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\Lab4Solution\\TestDataViewModel\\TestDataViewModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\oxyplot.core\\2.2.0\\oxyplot.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\oxyplot.wpf\\2.2.0\\oxyplot.wpf.2.2.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\oxyplot.wpf.shared\\2.2.0\\oxyplot.wpf.shared.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

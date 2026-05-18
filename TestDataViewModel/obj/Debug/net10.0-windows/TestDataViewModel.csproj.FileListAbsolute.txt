@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Lab4Solution\TestDataViewModel\bin\Debug\net10.0-windows\TestDataViewModel.deps.json
+C:\Users\USER\source\repos\Lab4Solution\TestDataViewModel\bin\Debug\net10.0-windows\TestDataViewModel.dll
+C:\Users\USER\source\repos\Lab4Solution\TestDataViewModel\bin\Debug\net10.0-windows\TestDataViewModel.pdb
+C:\Users\USER\source\repos\Lab4Solution\TestDataViewModel\bin\Debug\net10.0-windows\TestDataLibrary.dll
+C:\Users\USER\source\repos\Lab4Solution\TestDataViewModel\bin\Debug\net10.0-windows\TestDataLibrary.pdb
+C:\Users\USER\source\repos\Lab4Solution\TestDataViewModel\obj\Debug\net10.0-windows\TestDataViewModel.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Lab4Solution\TestDataViewModel\obj\Debug\net10.0-windows\TestDataViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Lab4Solution\TestDataViewModel\obj\Debug\net10.0-windows\TestDataViewModel.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Lab4Solution\TestDataViewModel\obj\Debug\net10.0-windows\TestDataViewModel.AssemblyInfo.cs
+C:\Users\USER\source\repos\Lab4Solution\TestDataViewModel\obj\Debug\net10.0-windows\TestDataViewModel.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Lab4Solution\TestDataViewModel\obj\Debug\net10.0-windows\TestData.075C83CE.Up2Date
+C:\Users\USER\source\repos\Lab4Solution\TestDataViewModel\obj\Debug\net10.0-windows\TestDataViewModel.dll
+C:\Users\USER\source\repos\Lab4Solution\TestDataViewModel\obj\Debug\net10.0-windows\refint\TestDataViewModel.dll
+C:\Users\USER\source\repos\Lab4Solution\TestDataViewModel\obj\Debug\net10.0-windows\TestDataViewModel.pdb
+C:\Users\USER\source\repos\Lab4Solution\TestDataViewModel\obj\Debug\net10.0-windows\ref\TestDataViewModel.dll
